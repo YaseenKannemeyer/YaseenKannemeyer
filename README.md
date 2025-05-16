@@ -20,19 +20,19 @@ Combining everything I've learned so far, I'm building a mobile app: a Linux ter
 
 <br>
 
-💻 Languages: Java, Python, Bash, SQL
+💻 **Languages**:  Java, Python, Bash, SQL
 
-📱 Current Project: A mobile Linux terminal game with CTF challenges
+📱 **Current Project**: A mobile Linux terminal game with CTF challenges
 
-🧠 Currently Learning: Android Studio, Mobile Development
+🧠 **Currently Learning**: Android Studio, Mobile Development
 
-🛠️ Focus Areas: Software Development, Cybersecurity, Homelabbing
+🛠️ **Focus Areas**: Software Development, Cybersecurity, Homelabbing
 
-🎓 Education: Diploma in Applications Development
+🎓 **Education**: Diploma in Applications Development
 
-🚀 Mindset: Always learning — this is just the beginning of my journey.
+🚀 **Mindset**: Always learning — this is just the beginning of my journey.
 
-📫 Reach me: yaseenkannemeyer@gmail.com
+📫 **Reach me**: yaseenkannemeyer@gmail.com
 
 
 ---
