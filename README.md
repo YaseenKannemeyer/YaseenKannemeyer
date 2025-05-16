@@ -104,9 +104,14 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=SwingHRTool&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SwingHRTool" />
 </a>
 
-<a href="https://github.com/YaseenKannemeyer/cyber-dev-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=cyber-dev-portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cyber-dev-portfolio" />
+<a href="https://github.com/YaseenKannemeyer/cyber-dev-portfolio" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=cyber-dev-portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" 
+    alt="GitHub repository - cyber-dev-portfolio"
+  />
 </a>
+
 
 <!--
 ### 📕 Latest Blog Posts
