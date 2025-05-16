@@ -51,6 +51,7 @@ ___
 
 ### 🔨 Tools
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+
 ___	
 
 ### 🌐 Web Dev
@@ -58,10 +59,11 @@ ___
 ___	
 
 ### ☕ Java
-<a href="https://github.com/YaseenKannemeyer" target="https://github.com/YaseenKannemeyer/SwingHRTool">
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+<a href="https://github.com/YaseenKannemeyer/SwingHRTool" target="_blank">
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" alt="Java" title="Java"/>
 </a>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tomcat.png" alt="Tomcat" title="Tomcat"/>
+
 ___	
 
 ### ✨ UI/UX
