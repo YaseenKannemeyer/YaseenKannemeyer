@@ -104,6 +104,10 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=SwingHRTool&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SwingHRTool" />
 </a>
 
+<a href="https://github.com/YaseenKannemeyer/cyber-dev-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=cyber-dev-portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cyber-dev-portfolio" />
+</a>
+
 <!--
 ### 📕 Latest Blog Posts
 -->
@@ -126,7 +130,16 @@ ___
   
   <br>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaseenKannemeyer&show_icons=true&theme=shadow_green&cache_seconds=3600)
+  ### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaseenKannemeyer&show_icons=true&theme=shadow_green&cache_seconds=3600) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YaseenKannemeyer&theme=shadow_green&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaseenKannemeyer&layout=donut&theme=shadow_green&cache_seconds=3600) <!--![](https://github-contributor-stats.vercel.app/api?username=YaseenKannemeyer&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)-->
+
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YaseenKannemeyer&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 </details>
 
