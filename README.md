@@ -131,7 +131,7 @@ ___
   <br>
   
   ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaseenKannemeyer&show_icons=true&theme=shadow_green&cache_seconds=3600) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YaseenKannemeyer&theme=shadow_green&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaseenKannemeyer&show_icons=true&theme=shadow_green&cache_seconds=3600)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YaseenKannemeyer&theme=shadow_green&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaseenKannemeyer&layout=donut&theme=shadow_green&cache_seconds=3600) <!--![](https://github-contributor-stats.vercel.app/api?username=YaseenKannemeyer&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)-->
 
