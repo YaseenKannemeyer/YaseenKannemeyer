@@ -95,18 +95,14 @@ ___
 
 ## 🗂️ Highlight Projects
 
-<!--a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="https://github.com/YaseenKannemeyer/SwingHRTool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=SwingHRTool&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SwingHRTool" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>-->
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width=100%>
 <!--
 ### 📕 Latest Blog Posts
 -->
-
+<br>
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
