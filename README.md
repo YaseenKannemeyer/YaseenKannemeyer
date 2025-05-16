@@ -123,8 +123,15 @@ ___
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
+  <br>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaseenKannemeyer&show_icons=true&theme=shadow_green&cache_seconds=3600)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaseenKannemeyer&show_icons=true&theme=shadow_green)
 </details>
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width=100% height="70px">
