@@ -100,33 +100,33 @@ ___
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/YaseenKannemeyer/SwingHRTool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=SwingHRTool&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SwingHRTool" />
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
-<a href="https://github.com/YaseenKannemeyer/Java-LoginApp-With-MySQL" target="_blank" rel="noopener noreferrer">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=Java-LoginApp-With-MySQL&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-    alt="GitHub repository - Java-LoginApp-With-MySQL"
-  />
-</a>
+  <a href="https://github.com/YaseenKannemeyer/Linux-Terminal-Java">
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=Linux-Terminal-Java&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+         alt="Linux-Terminal-Java" />
+  </a>
 
-<a href="https://github.com/YaseenKannemeyer/cyber-dev-portfolio" target="_blank" rel="noopener noreferrer">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=cyber-dev-portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-    alt="GitHub repository - cyber-dev-portfolio"
-  />
-</a>
+  <a href="https://github.com/YaseenKannemeyer/Java-LoginApp-With-MySQL">
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=Java-LoginApp-With-MySQL&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+         alt="Java-LoginApp-With-MySQL" />
+  </a>
 
-<a href="https://github.com/YaseenKannemeyer/kali-terminal-mock-java" target="_blank" rel="noopener noreferrer">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=kali-terminal-mock-java&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-    alt="GitHub repository - kali-terminal-mock-java"
-  />
-</a>
+  <a href="https://github.com/YaseenKannemeyer/cyber-dev-portfolio">
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=cyber-dev-portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+         alt="cyber-dev-portfolio" />
+  </a>
+
+  <a href="https://github.com/YaseenKannemeyer/kali-terminal-mock-java">
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=YaseenKannemeyer&repo=kali-terminal-mock-java&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+         alt="kali-terminal-mock-java" />
+  </a>
+
+</div>
 
 
 </a>
