@@ -10,13 +10,9 @@
 ![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 
 
-<details>
-<summary> 🔍 About Me </summary>
+About Me
 <br>
-I'm a South African student currently studying towards a diploma in Applications Development, where I'm learning Java and a wide range of IT skills. Outside the classroom, I dive deep into networking and cybersecurity consepts. I've self-taught myself Linux, Python, and Bash scripting.
-
-  
-Combining everything I've learned so far, I'm building a mobile app: a Linux terminal-inspired game in Java that fuses education with Capture the Flag (CTF) challenges. It's my way of turning learning into an interactive experience.
+I'm a South African student currently studying towards a diploma in Applications Development, where I'm learning Java and a wide range of IT skills. Outside the classroom, I dive deep into networking and cybersecurity consepts. I've self-taught myself Linux, React, and Bash scripting.
 
 
 
