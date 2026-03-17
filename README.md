@@ -1,79 +1,161 @@
+<div align="center">
 
-<h1 style="margin-bottom: 0;">
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35"/>
-  Hi! I'm Mogamat Yaseen Kannemeyer
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0f0c29,70:1a1040,100:0d1117&height=220&section=header&text=Mogamat%20Yaseen%20Kannemeyer&fontSize=38&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Frontend%20Developer%20%E2%80%A2%20South%20Africa&descAlignY=60&descAlign=50&descSize=15&descColor=8b8fce&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8B8FCE&center=true&vCenter=true&multiline=false&width=500&lines=React+%26+TypeScript+Developer+%E2%9A%A1;Framer+Motion+Enthusiast+%F0%9F%8E%AC;Building+interfaces+that+feel+alive+%F0%9F%8C%9F;Self-taught+%2B+Diploma+in+App+Development+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 
-
-## About Me
-I’m a South African student studying for a Diploma in Applications Development, where I learn Java and a wide range of IT skills.  
-
-I’ve self-taught React, TypeScript, Tailwind, and other frontend technologies. I enjoy building modern, responsive web interfaces and exploring new tools in the frontend ecosystem.  
-
-While I have some experience across backend and IT in general, my main focus and passion is frontend development.
-
-#
-
-## Tech Stack
-
-### Frontend
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#)
-[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=react&logoColor=white)](#)
-
-### Backend (supporting)
-[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#)
-[![JDBC](https://img.shields.io/badge/JDBC-007396?logo=java&logoColor=white)](#)
-
-### Database (minimal)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)](#)
-
-### 🛠 Developer Tools
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)](#)
-[![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white)](#)
-
-#
-
-## Github Stats:
-<p align="left">
-    <a href="https://github.com/YaseenKannemeyer">
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YaseenKannemeyer&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="left">
-  <a href="https://github.com/YaseenKannemeyer">
-    <img height=175 src="https://github-readme-activity-graph.vercel.app/graph?username=YaseenKannemeyer&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=20"/>
-  </a> 
-</p>
-
-<p align="left">
-   <a href="https://github.com/YaseenKannemeyer"> 
-     <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=YaseenKannemeyer&theme=onedark&hide_border=true" /> 
-   </a>  
-</p>
-
-<br>
+</div>
 
 
 
+---
 
-#
+## 👋 About Me
+
+I'm a South African student completing a **Diploma in Applications Development**, studying Java and a broad range of IT skills.
+
+Outside of school, I'm self-taught in **React, TypeScript, Tailwind CSS**, and the wider frontend ecosystem. I love building modern, responsive interfaces — and obsessing over the small interactions that make a UI feel truly alive.
+
+Frontend is where my passion lives, though I bring solid backend and IT knowledge to the table too.
+
+<br/>
+
+- 🌍 &nbsp; Based in **Cape Town, South Africa**
+- 🎓 &nbsp; Studying a **Diploma in Applications Development**
+- 🔭 &nbsp; Currently deep-diving into **animations & motion design**
+- ✍️ &nbsp; Writing about **Framer Motion** on my [blog](https://framer-motion-react-beta.vercel.app/)
+- 💬 &nbsp; Ask me about **React, TypeScript, or Tailwind CSS**
+- 🛠 &nbsp; Building with **Next.js + Framer Motion**
+- 🤝 &nbsp; Open to **collabs & frontend projects**
+- 🎯 &nbsp; Goal: **Ship great UX, not just great code**
+
+<br/>
+
+---
+
+## 🛠 Tech Stack
+
+### ⚡ Frontend
+
+<table border="0" cellspacing="0" cellpadding="12">
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=ts" width="48"/><br/><sub><b>TypeScript</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub><b>JavaScript</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/><sub><b>Next.js</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub><b>Tailwind CSS</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub><b>HTML5</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub><b>CSS3</b></sub></td>
+  </tr>
+</table>
+
+### 🔧 Backend <sub>*(supporting)*</sub>
+
+<table border="0" cellspacing="0" cellpadding="12">
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub><b>Java</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=express" width="48"/><br/><sub><b>Express</b></sub></td>
+  </tr>
+</table>
+
+### 🗄 Database <sub>*(minimal)*</sub>
+
+<table border="0" cellspacing="0" cellpadding="12">
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/><sub><b>Supabase</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><sub><b>SQL</b></sub></td>
+  </tr>
+</table>
+
+### 🧰 Developer Tools
+
+<table border="0" cellspacing="0" cellpadding="12">
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub><b>GitHub</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub><b>VS Code</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=idea" width="48"/><br/><sub><b>IntelliJ</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=npm" width="48"/><br/><sub><b>NPM</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/><sub><b>Vercel</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><sub><b>Figma</b></sub></td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## ✍️ Latest Blog Post
+
+<a href="https://framer-motion-react-beta.vercel.app/">
+  <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20NEW%20POST-Animate%20your%20UI%20with%20Framer%20Motion-0d1117?style=for-the-badge&logo=framer&logoColor=white&labelColor=1a1040" />
+</a>
+
+<br/><br/>
+
+> A beginner's guide to installing, importing, and using `motion` components to bring your React app to life — with **8 fully interactive live demos** covering easing, springs, stagger variants, drag, `AnimatePresence`, layout animations, and keyframes.
+
+| What's covered | |
+|---|---|
+| 🎯 Core props — `initial`, `animate`, `transition`, `exit` | ✅ |
+| 🌊 Easing & Tween vs Spring | ✅ |
+| 🎴 Variants & `staggerChildren` | ✅ |
+| 🖱 Drag with `dragConstraints` & `dragElastic` | ✅ |
+| 👋 `AnimatePresence` — animated exits | ✅ |
+| 📐 Layout animations with FLIP | ✅ |
+| 🔁 Keyframes & looping | ✅ |
+| 🔢 Step switcher / view transitions | ✅ |
+
+📚 **[Read the full guide →](https://framer-motion-react-beta.vercel.app/)**
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YaseenKannemeyer&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8b8fce&text_color=c9d1d9&icon_color=8b8fce" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YaseenKannemeyer&theme=tokyonight&hide_border=true&background=0D1117&ring=8b8fce&fire=f97316&currStreakLabel=8b8fce&sideLabels=8b8fce&dates=6e7681" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YaseenKannemeyer&bg_color=0d1117&color=8b8fce&line=8b8fce&point=f97316&area=true&area_color=8b8fce&hide_border=true&border_radius=12&custom_title=Contribution%20Activity"/>
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
 
 
+<a href="https://www.linkedin.com/in/yaseen-kannemeyer/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yaseen%20Kannemeyer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width=100% height="70px">
+
+<br/><br/>
+
+*"The best interfaces don't just look good — they feel good."*
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1040,70:0f0c29,100:0d0d0d&height=120&section=footer&fontSize=14&fontColor=8b8fce&text=Thanks%20for%20visiting%20%E2%9C%A8&fontAlignY=65" width="100%"/>
+</div>
