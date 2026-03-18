@@ -6,10 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8B8FCE&center=true&vCenter=true&multiline=false&width=500&lines=React+%26+TypeScript+Developer+%E2%9A%A1;Framer+Motion+Enthusiast+%F0%9F%8E%AC;Building+interfaces+that+feel+alive+%F0%9F%8C%9F;Self-taught+%2B+Diploma+in+App+Development+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-
 </div>
-
-
 
 ---
 
@@ -26,7 +23,7 @@ Frontend is where my passion lives, though I bring solid backend and IT knowledg
 - 🌍 &nbsp; Based in **Cape Town, South Africa**
 - 🎓 &nbsp; Studying a **Diploma in Applications Development**
 - 🔭 &nbsp; Currently deep-diving into **animations & motion design**
-- ✍️ &nbsp; Writing about **Framer Motion** on my [blog](https://framer-motion-react-beta.vercel.app/)
+- ✍️ &nbsp; Writing about **React Hooks** & **Framer Motion** — [React Hooks Guide](https://how-to-react-hooks.vercel.app/) · [Framer Motion Guide](https://framer-motion-react-beta.vercel.app/)
 - 💬 &nbsp; Ask me about **React, TypeScript, or Tailwind CSS**
 - 🛠 &nbsp; Building with **Next.js + Framer Motion**
 - 🤝 &nbsp; Open to **collabs & frontend projects**
@@ -58,7 +55,8 @@ Frontend is where my passion lives, though I bring solid backend and IT knowledg
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub><b>Java</b></sub></td>
     <td><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=express" width="48"/><br/><sub><b>Express</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=php" width="48"/><br/><sub><b>PHP</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=laravel" width="48"/><br/><sub><b>Laravel</b></sub></td>
   </tr>
 </table>
 
@@ -90,10 +88,41 @@ Frontend is where my passion lives, though I bring solid backend and IT knowledg
 
 ---
 
-## ✍️ Latest Blog Post
+## ✍️ Blog Posts
+
+### 🆕 &nbsp; How to React Hooks
+
+<a href="https://how-to-react-hooks.vercel.app/">
+  <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20LATEST-Master%20every%20React%20Hook-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1040" />
+</a>
+
+<br/><br/>
+
+> A visual reference guide to every React hook — from `useState` to `useImperativeHandle`. Each hook comes with a working interactive demo, common pitfalls, and the mental model that makes it actually click.
+
+| Hook | What it does |
+|---|---|
+| `useState` | Store and update values inside a function component |
+| `useEffect` | Fetch data, subscribe to events, and clean up side effects |
+| `useRef` | Access DOM nodes or hold a mutable value without re-rendering |
+| `useContext` | Consume shared state anywhere in the tree — no prop drilling |
+| `useReducer` | Centralise complex state logic into a pure reducer function |
+| `useMemo` | Cache expensive calculations, recompute only when deps change |
+| `useCallback` | Memoize functions so child components don't re-render needlessly |
+| `useLayoutEffect` | Like `useEffect` but fires before the browser paints |
+| `useImperativeHandle` | Expose a custom API from a child component via ref |
+| `useTransition` + 7 more | Coming soon — React 18+ concurrent hooks |
+
+📚 **[Explore the full guide →](https://how-to-react-hooks.vercel.app/)**
+
+<br/>
+
+---
+
+### 🎬 &nbsp; Animate your UI with Framer Motion
 
 <a href="https://framer-motion-react-beta.vercel.app/">
-  <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20NEW%20POST-Animate%20your%20UI%20with%20Framer%20Motion-0d1117?style=for-the-badge&logo=framer&logoColor=white&labelColor=1a1040" />
+  <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20POST-Animate%20your%20UI%20with%20Framer%20Motion-0d1117?style=for-the-badge&logo=framer&logoColor=white&labelColor=1a1040" />
 </a>
 
 <br/><br/>
@@ -141,12 +170,23 @@ Frontend is where my passion lives, though I bring solid backend and IT knowledg
 
 <div align="center">
 
-
+<a href="https://github.com/YaseenKannemeyer">
+  <img src="https://img.shields.io/badge/GitHub-%40YaseenKannemeyer-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/yaseen-kannemeyer/">
   <img src="https://img.shields.io/badge/LinkedIn-Yaseen%20Kannemeyer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 
+<br/><br/>
+
+<a href="https://how-to-react-hooks.vercel.app/">
+  <img src="https://img.shields.io/badge/Blog-React%20Hooks%20Guide-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://framer-motion-react-beta.vercel.app/">
+  <img src="https://img.shields.io/badge/Blog-Framer%20Motion%20Guide-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+</a>
 
 <br/><br/>
 
