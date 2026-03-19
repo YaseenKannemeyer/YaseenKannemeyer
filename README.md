@@ -170,10 +170,6 @@ Frontend is where my passion lives, though I bring solid backend and IT knowledg
 
 <div align="center">
 
-<a href="https://github.com/YaseenKannemeyer">
-  <img src="https://img.shields.io/badge/GitHub-%40YaseenKannemeyer-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/yaseen-kannemeyer/">
   <img src="https://img.shields.io/badge/LinkedIn-Yaseen%20Kannemeyer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
