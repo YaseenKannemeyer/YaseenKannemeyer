@@ -14,7 +14,7 @@
 
 I'm a South African student completing a **Diploma in Applications Development**, studying Java and a broad range of IT skills.
 
-Outside of school, I'm self-taught in **React, TypeScript, Tailwind CSS**, and the wider frontend ecosystem. I love building modern, responsive interfaces — and obsessing over the small interactions that make a UI feel truly alive.
+Outside of school, I'm self-taught in **React, TypeScript, Tailwind CSS**, and the wider frontend ecosystem. I love building modern, responsive interfaces and obsessing over the small interactions that make a UI feel truly alive.
 
 Frontend is where my passion lives, though I bring solid backend and IT knowledge to the table too.
 
