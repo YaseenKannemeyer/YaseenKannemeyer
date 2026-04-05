@@ -22,7 +22,7 @@ Frontend is where my passion lives, though I bring solid backend and IT knowledg
 
 - 🌍 &nbsp; Based in **Cape Town, South Africa**
 - 🎓 &nbsp; Studying a **Diploma in Applications Development**
-- 🔭 &nbsp; Currently deep-diving into **animations & motion design**
+- 🔭 &nbsp; Currently deep-diving into **Three.js and webGL**
 - ✍️ &nbsp; Writing about **React Hooks** & **Framer Motion** — [React Hooks Guide](https://how-to-react-hooks.vercel.app/) · [Framer Motion Guide](https://framer-motion-react-beta.vercel.app/)
 - 💬 &nbsp; Ask me about **React, TypeScript, or Tailwind CSS**
 - 🛠 &nbsp; Building with **Next.js + Framer Motion**
