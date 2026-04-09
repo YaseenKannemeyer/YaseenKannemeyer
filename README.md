@@ -18,6 +18,8 @@ Outside of school, I'm self-taught in **React, TypeScript, Tailwind CSS**, and t
 
 Frontend is where my passion lives, though I bring solid backend and IT knowledge to the table too.
 
+Check out my portfolio website https://mogamat-yaseen-kannemeyer.vercel.app/
+
 <br/>
 
 - 🌍 &nbsp; Based in **Cape Town, South Africa**
