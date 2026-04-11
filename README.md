@@ -24,7 +24,7 @@ Check out my portfolio website https://mogamat-yaseen-kannemeyer.vercel.app/
 
 - 🌍 &nbsp; Based in **Cape Town, South Africa**
 - 🎓 &nbsp; Studying a **Diploma in Applications Development**
-- 🔭 &nbsp; Currently deep-diving into **Three.js and webGL**
+- 🔭 &nbsp; Currently deep-diving into **GSAP**
 - ✍️ &nbsp; Writing about **React Hooks** & **Framer Motion** — [React Hooks Guide](https://how-to-react-hooks.vercel.app/) · [Framer Motion Guide](https://framer-motion-react-beta.vercel.app/)
 - 💬 &nbsp; Ask me about **React, TypeScript, or Tailwind CSS**
 - 🛠 &nbsp; Building with **Next.js + Framer Motion**
