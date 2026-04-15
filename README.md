@@ -107,7 +107,7 @@ Check out my portfolio website https://mogamat-yaseen-kannemeyer.vercel.app/
 | `useState` | Store and update values inside a function component |
 | `useEffect` | Fetch data, subscribe to events, and clean up side effects |
 | `useRef` | Access DOM nodes or hold a mutable value without re-rendering |
-| `useContext` | Consume shared state anywhere in the tree — no prop drilling |
+| `useContext` | Consume shared state anywhere in the tree, no prop drilling |
 | `useReducer` | Centralise complex state logic into a pure reducer function |
 | `useMemo` | Cache expensive calculations, recompute only when deps change |
 | `useCallback` | Memoize functions so child components don't re-render needlessly |
