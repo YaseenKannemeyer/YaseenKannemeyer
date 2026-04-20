@@ -154,7 +154,6 @@ Check out my portfolio website https://mogamat-yaseen-kannemeyer.vercel.app/
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YaseenKannemeyer&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8b8fce&text_color=c9d1d9&icon_color=8b8fce" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YaseenKannemeyer&theme=tokyonight&hide_border=true&background=0D1117&ring=8b8fce&fire=f97316&currStreakLabel=8b8fce&sideLabels=8b8fce&dates=6e7681" />
 
 </div>
 
